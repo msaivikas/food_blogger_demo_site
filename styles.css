@@ -1,0 +1,25 @@
+.navMenuItems{
+    align-items: center;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    color: white;
+}
+.aboutMe{
+    margin-top: 3em;
+    margin-bottom: 3em;
+    /* background-image: url('./images/blur-glass.jpg');
+    background-size: cover; */
+}
+.payments-h{
+    margin: 1.5em;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+.end-footer{
+    background-color: #f3f2f5;
+    height: 10em;
+    text-align: center;
+}
